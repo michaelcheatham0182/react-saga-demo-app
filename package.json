@@ -1,0 +1,31 @@
+{
+  "name": "react-redux-saga-demo-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^2.0.0",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.16.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-15": "^1.0.5",
+    "enzyme-redux": "^0.2.1",
+    "react-addons-test-utils": "^15.6.2",
+    "react-test-renderer": "^15.6.1",
+    "redux-test-utils": "^0.2.2"
+  },
+  "engines": {
+    "node": "8.9.3"
+  }
+}
